@@ -4,6 +4,8 @@ Political scientist (PhD, University of Brasília). I study **criminal governanc
 
 🔭 **Currently** a visiting researcher at the University of Illinois Chicago (UIC).
 
+🗳️ **In the news, October 2026.** My measurement of São Paulo's bus fleet on the runoff election day, built from SPTrans GPS records matched to polling places, was covered by [Folha de S.Paulo](https://www1.folha.uol.com.br/cotidiano/2026/10/justica-alertou-prefeitura-de-sp-sobre-exigencia-de-ampliar-onibus-meses-antes-da-eleicao.shtml), [BBC News Brasil](https://www.bbc.com/portuguese/articles/c64g13y5k303o) and [Metrópoles](https://www.metropoles.com/sao-paulo/periferias-onde-lula-venceu-sao-as-mais-afetadas-por-falta-de-onibus-em-sp).
+
 ---
 
 #### 📌 Featured: *Criminal Order and Gendered Violence in Chicago*
