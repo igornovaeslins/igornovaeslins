@@ -20,6 +20,21 @@ Women are a rising share of the people shot in Chicago — about one in ten thro
 
 ---
 
+#### 🗂️ Open data: BOCEL
+
+**Brazilian Elective Office Occupancy Database (BOCEL), 1998–2024.** Who held each seat in the Presidency, the Chamber of Deputies, the Senate and the state governorships, year by year, with the order of substitutes, each person's party affiliation history and how every term ended. Built from the open data of Brazil's Superior Electoral Court.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22896271.svg)](https://doi.org/10.5281/zenodo.22896271) **→ [bocel](https://github.com/igornovaeslins/bocel)**, the dataset, now in version 1.2.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24433109.svg)](https://doi.org/10.5281/zenodo.24433109) **→ [bocel-r](https://github.com/igornovaeslins/bocel-r)**, an R package that reads any table of any version, with the codebook's column types.
+
+```r
+remotes::install_github("igornovaeslins/bocel-r")
+mandatos <- bocel::bocel_ler("mandatos", versao = "1.2")
+```
+
+---
+
 #### 🧭 Research
 
 - **Criminal governance & elections** — how militias and drug factions in Rio de Janeiro reorganize voter mobilization, registration, and electoral competition.
