@@ -22,7 +22,7 @@ Women are a rising share of the people shot in Chicago — about one in ten thro
 
 #### 🗂️ Open data: BOCEL
 
-**Brazilian Elective Office Occupancy Database (BOCEL), 1998–2024.** Who held each seat in the Presidency, the Chamber of Deputies, the Senate and the state governorships, year by year, with the order of substitutes, each person's party affiliation history and how every term ended. Built from the open data of Brazil's Superior Electoral Court.
+**Brazilian Elective Office Occupancy Database (BOCEL), 1998–2026.** Who held each seat in the Presidency, the Chamber of Deputies, the Senate and the state governorships, year by year, with the order of substitutes, each person's party affiliation history and how every term ended. Built from the open data of Brazil's Superior Electoral Court.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22896271.svg)](https://doi.org/10.5281/zenodo.22896271) **→ [bocel](https://github.com/igornovaeslins/bocel)**, version 1.2, with the R package [bocel-r](https://github.com/igornovaeslins/bocel-r) ([doi:10.5281/zenodo.24433109](https://doi.org/10.5281/zenodo.24433109)).
 
